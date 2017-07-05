@@ -6,3 +6,5 @@ Usa este repositorio para practicar git y github
 ## modificación de aprendiendo-arduino
 
 ### modificación desde otra cuenta
+
+#### cambio tras el merge
