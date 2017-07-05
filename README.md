@@ -7,4 +7,7 @@ Usa este repositorio para practicar git y github
 
 ### modificación desde otra cuenta
 
+
 #### modifico sin tener un fork
+
+#### cambio tras el merge
